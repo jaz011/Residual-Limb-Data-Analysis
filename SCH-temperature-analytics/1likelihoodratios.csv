@@ -1,0 +1,25 @@
+clueIndex,Clue,Ratio P(o|n=math)/P(o|n=ws)
+1,1 problem,0.2
+2,jumbled,0.5
+3,mixed up,0.5
+4,verbal,0.1
+5,multiple choice,0.2
+6,won't need paper & pencil to solve,0.5
+7,words,0.1
+8,vocabulary skills,0.1
+9,San Diego has great weather,0.25
+10,unknown ,0.2
+11,50 percent of previous players chose this task ,1
+12,50 percent of previous players thought this task was harder than average,0.2
+13,Numerical,10
+14,Totalling up,10
+15,Not jumbled,2
+16,No words,10
+17,Might need paper & pencil to solve,5
+18,Multiple choice,2
+19,The weather in San Diego is nice,4
+20,Not verbal,10
+21,1 problem to solve,2
+22,Analytical skills,5
+23,50 percent of previous players thought this task was more difficult than average,2
+24,50 percent of previous players thought this task was easier than average,2
